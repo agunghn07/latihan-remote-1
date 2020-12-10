@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Hellow Word</h1>
-    <span>Menambah Span</span>
+    <small>Mengganti dengan small</small>
 </body>
 </html>
